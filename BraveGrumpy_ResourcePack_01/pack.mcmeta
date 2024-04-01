@@ -1,6 +1,9 @@
 {
     "pack": {
-        "pack_format": 15,
+        "pack_format": {
+            "resource": 30,
+            "data": 35,
+        },
         "description": "Brave Grumpy Resouce Pack 01"
     }
 }
