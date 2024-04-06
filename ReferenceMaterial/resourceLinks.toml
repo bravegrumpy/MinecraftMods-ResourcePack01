@@ -1,0 +1,22 @@
+[UsefulDirectories]
+[UsefulDirectories.MinecraftLocations]
+path = "C:\\Users\robin\AppData\Roaming\.minecraft\resourcepacks"
+
+[BlenderAddOns]
+blockBlender = "https://blendermarket.com/products/blockblender"
+BlockBlenderToSchem = "https://bryanvalc.gumroad.com/l/BlockBlenderToSchem"
+
+[Documentation]
+[Documentation.Tutorials]
+Mod_Coder_Pack = "https://minecraft.fandom.com/wiki/Tutorials/Programs_and_editors/Mod_Coder_Pack"
+pack_format = "https://minecraft.fandom.com/wiki/Pack_format"
+resouce_pack = "https://minecraft.fandom.com/wiki/Resource_pack"
+
+
+[Tools]
+Block_Bench = "https://www.blockbench.net/"
+Online_Blockbench_Tool = "https://web.blockbench.net/"
+Datapack_Creator_IDE = "https://www.planetminecraft.com/mod/datapack-creator-ide/"
+Math_Genius_Origin_Creator = "https://www.mathgeniuszach.com/apps/origin-creator/"
+MC_Creator = "https://mcreator.net/install/windows"
+
